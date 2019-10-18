@@ -1,4 +1,4 @@
-#N ode REST API  movie database with OMDB API
+# Node REST API  movie database with OMDB API
 
 ## REST API features:
 -	POST /movies:
