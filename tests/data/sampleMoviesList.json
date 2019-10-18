@@ -1,0 +1,176 @@
+{
+    "actors": [
+        "Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl"
+    ],
+    "language": [
+        "English, French, Spanish"
+    ],
+    "country": [
+        "USA, UK"
+    ],
+    "ratings": [],
+    "type": [
+        "movie"
+    ],
+    "_id": "5da82cca6c812f4d7c83e6d1",
+    "created_date": "2019-10-17T08:56:42.975Z",
+    "title": "Batman",
+    "year": 1989,
+    "rated": "PG-13",
+    "runtime": "126 min",
+    "genre": "Action, Adventure",
+    "director": "Tim Burton",
+    "plot": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.",
+    "awards": "Won 1 Oscar. Another 8 wins & 26 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg",
+    "metascore": "69",
+    "imdbRating": 7.5,
+    "imdbID": "tt0096895",
+    "dvd": "25 Mar 1997",
+    "boxoffice": "N/A",
+    "website": "N/A",
+    "__v": 0
+}  ,
+
+
+
+{
+    "actors": [
+        "Sam Elliott, Timothy Hutton, James Cromwell, William Hope"
+    ],
+    "language": [
+        "English"
+    ],
+    "country": [
+        "USA"
+    ],
+    "ratings": [],
+    "type": [
+        "movie"
+    ],
+    "_id": "5da82d3a6c812f4d7c83e6d2",
+    "created_date": "2019-10-17T08:58:34.316Z",
+    "title": "Avenger",
+    "year": 2006,
+    "rated": "Not Rated",
+    "runtime": "92 min",
+    "genre": "Thriller",
+    "director": "Robert Markowitz",
+    "plot": "A C.I.A. Agent steps in to stop a former Special Forces Operative on a for-hire mission that poses a global threat.",
+    "awards": "N/A",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMzMjMwMjcyNl5BMl5BanBnXkFtZTcwNTA1NDgzMQ@@._V1_SX300.jpg",
+    "metascore": "N/A",
+    "imdbRating": 5.6,
+    "imdbID": "tt0473445",
+    "dvd": "25 Oct 2005",
+    "boxoffice": "N/A",
+    "website": "N/A",
+    "__v": 0
+}  ,
+
+
+{
+    "actors": [
+        "Bill Murray, Andie MacDowell, Chris Elliott, Stephen Tobolowsky"
+    ],
+    "language": [
+        "English, French, Italian"
+    ],
+    "country": [
+        "USA"
+    ],
+    "ratings": [],
+    "type": [
+        "movie"
+    ],
+    "_id": "5da82d5a6c812f4d7c83e6d3",
+    "created_date": "2019-10-17T08:59:06.572Z",
+    "title": "Groundhog Day",
+    "year": 1993,
+    "rated": "PG",
+    "runtime": "101 min",
+    "genre": "Comedy, Fantasy, Romance",
+    "director": "Harold Ramis",
+    "plot": "A weatherman finds himself inexplicably living the same day over and over again.",
+    "awards": "Won 1 BAFTA Film Award. Another 6 wins & 17 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "metascore": "72",
+    "imdbRating": 8,
+    "imdbID": "tt0107048",
+    "dvd": "29 Jan 2002",
+    "boxoffice": "N/A",
+    "website": "N/A",
+    "__v": 0
+}  ,
+
+
+
+
+{
+    "actors": [
+        "Bruce Lee, John Saxon, Jim Kelly, Ahna Capri"
+    ],
+    "language": [
+        "English, Cantonese"
+    ],
+    "country": [
+        "Hong Kong, USA"
+    ],
+    "ratings": [],
+    "type": [
+        "movie"
+    ],
+    "_id": "5da82d766c812f4d7c83e6d4",
+    "created_date": "2019-10-17T08:59:34.210Z",
+    "title": "Enter the Dragon",
+    "year": 1973,
+    "rated": "R",
+    "runtime": "102 min",
+    "genre": "Action, Crime, Drama, Thriller",
+    "director": "Robert Clouse",
+    "plot": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
+    "awards": "1 win.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGZiMTkyNzQtMDdmZi00ZDNkLWE4YTAtZGNlNTIzYzQyMGM2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "metascore": "83",
+    "imdbRating": 7.7,
+    "imdbID": "tt0070034",
+    "dvd": "18 May 2004",
+    "boxoffice": "N/A",
+    "website": "N/A",
+    "__v": 0
+} ,
+
+
+{
+    "actors": [
+        "Jet Li, Aaliyah, Isaiah Washington, Russell Wong"
+    ],
+    "language": [
+        "English, Chinese"
+    ],
+    "country": [
+        "USA"
+    ],
+    "ratings": [],
+    "type": [
+        "movie"
+    ],
+    "_id": "5da82d996c812f4d7c83e6d5",
+    "created_date": "2019-10-17T09:00:09.342Z",
+    "title": "Romeo Must Die",
+    "year": 2000,
+    "rated": "R",
+    "runtime": "115 min",
+    "genre": "Action, Crime, Thriller",
+    "director": "Andrzej Bartkowiak",
+    "plot": "An avenging cop seeks out his brother's killer and falls for the daughter of a businessman who is involved in a money-deal with his father.",
+    "awards": "2 wins & 7 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI5Nzg1MjA5M15BMl5BanBnXkFtZTYwNzAxNzg2._V1_SX300.jpg",
+    "metascore": "52",
+    "imdbRating": 6.1,
+    "imdbID": "tt0165929",
+    "dvd": "01 Aug 2000",
+    "boxoffice": "N/A",
+    "website": "N/A",
+    "__v": 0
+}
