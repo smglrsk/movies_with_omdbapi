@@ -1,6 +1,6 @@
-# Node REST API  movie database with OMDB API
+Node REST API  movie database with OMDB API
 
-## REST API features:
+REST API features:
 -	POST /movies:
 	Based on passed data (i.e. title), other movie details are fetched from http://www.omdbapi.com/  - and saved to application database.
 	Parameters: title. 
@@ -9,7 +9,7 @@
 -	GET /movies:
 	fetches list of all movies already present in application database.
 -	POST /comments:
-	Comment are saved to application database
+	Comment are saved to the application database
         Parameters: 
         -  movie id from the abovementioned table movies comment 
         – a comment to be saved in the database 
@@ -17,15 +17,15 @@
                "body": "Very good"
                }
 -	GET /comments:
-	fetches list of all comments present in application database.
+	fetches a list of all comments present in application database.
 
-## Requiments
+Requirements
 Node
 Express
 MongoDB
 
 
-## Installation
+Installation
 npm install
 npm start
 
